@@ -1,38 +1,86 @@
-.App {
-  text-align: center;
+/* Cursor Styles */
+
+html {
+  cursor: none;
 }
 
-.App-logo {
-  height: 40vmin;
+.cursor {
+  position: fixed;
+  left: 0;
+  top: 0;
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.cursor--small {
+  width: 2em;
+  height: 2em;
+  left: -2.5px;
+  top: -2.5px;
+  border-radius: 50%;
+  background: rgba(255, 150, 102, 0.5);
+  z-index: 100;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.cursor--canvas {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: solid 1px black;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: all 0.2s ease;
+  transition-property: background, border, transform, width, height;
+  transform-origin: 150% 150%;
+  z-index: 100;
 }
 
-.App-link {
-  color: #61dafb;
+.link {
+  cursor: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+/* End of cursor Styles ^^^^^ */
+
+td {
+  padding: 0.3em 1em;
+}
+
+.char {
+  display: inline-block;
+}
+
+.title {
+  position: absolute;
+  overflow: hidden;
+  margin-bottom: 0.5em;
+  line-height: 1;
+}
+
+.title-paragraph {
+  overflow: hidden;
+  line-height: 1.5;
+}
+
+.title-paragraph span {
+  position: relative;
+}
+
+.char {
+  will-change: transform;
+}
+
+.home-fade-in {
+  opacity: 0;
+}
+
+.border-fade-in {
+  border-style: hidden;
+}
+
+@keyframes move {
+  100% {
+    motion-offset: 100%;
+    offset-distance: 100%;
   }
 }

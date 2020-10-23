@@ -1,0 +1,181 @@
+[
+  {
+    "name": "IGOR",
+    "date": "2019",
+    "artwork": ["artworks/IGOR/alternate.jpg", "artworks/IGOR/cassette.png"],
+    "tracklist": [
+      { "name": " Igor’s Theme", "time": "3:20" },
+      { "name": "Earfquake", "time": "3:10" },
+      { "name": "I Think", "time": "3:32" },
+      {
+        "name": "Exactly What You Run From You End Up Chasing",
+        "time": "0:14"
+      },
+      { "name": "Running Out Of Time", "time": "2:57" },
+      { "name": "New Magic Wand", "time": "3:15" },
+      { "name": "A Boy Is A Gun", "time": "3:30" },
+      { "name": "Puppet", "time": "2:59" },
+      { "name": "What’s Good", "time": "3:25" },
+      { "name": " Gone, Gone / Thank You", "time": "6:15" },
+      { "name": " I Don’t Love You Anymore", "time": "2:41" },
+      { "name": " Are We Still Friends?", "time": "4:25" }
+    ]
+  },
+  {
+    "name": "FLOWER BOY",
+    "date": "2017",
+    "artwork": [
+      "artworks/FLOWER_BOY/alternate.jpg",
+      "artworks/FLOWER_BOY/original.jpg"
+    ],
+    "tracklist": [
+      {
+        "name": "Foreword (featuring Rex Orange County)",
+        "time": "3:14"
+      },
+      {
+        "name": "Where This Flower Blooms (featuring Frank Ocean)",
+        "time": "3:14"
+      },
+      {
+        "name": "Sometimes...",
+        "time": "0:36"
+      },
+      {
+        "name": "See You Again (featuring Kali Uchis)",
+        "time": "3:00"
+      },
+      {
+        "name": "Who Dat Boy (featuring ASAP Rocky)",
+        "time": "3:25"
+      },
+      {
+        "name": "Pothole (featuring Jaden Smith)",
+        "time": "3:57"
+      },
+      {
+        "name": "Garden Shed (featuring Estelle)",
+        "time": "3:43"
+      },
+      {
+        "name": "Boredom (featuring Rex Orange County and Anna of the North)",
+        "time": "5:20"
+      },
+      {
+        "name": "I Ain't Got Time!",
+        "time": "3:26"
+      },
+      {
+        "name": "911 / Mr. Lonely (featuring Frank Ocean and Steve Lacy)",
+        "time": "4:15"
+      },
+      {
+        "name": "Droppin' Seeds (featuring Lil Wayne)",
+        "time": "1:00"
+      },
+      {
+        "name": "November",
+        "time": "3:45"
+      },
+      {
+        "name": "Glitter",
+        "time": "3:44"
+      },
+      {
+        "name": "Enjoy Right Now, Today",
+        "time": "3:55"
+      }
+    ]
+  },
+  {
+    "name": "CHERRY BOMB",
+    "date": "2017",
+    "artwork": [
+      "artworks/CHERRY_BOMB/alternate.jpg",
+      "artworks/CHERRY_BOMB/original.jpg"
+    ],
+    "tracklist": [
+      { "name": "Deathcamp (featuring Cole Alexander)", "time": "3:09" },
+      { "name": "Buffalo (featuring Shane Powers)", "time": "2:39" },
+      { "name": "Pilot (featuring Syd Bennett)", "time": "3:29" },
+      {
+        "name": "Run (featuring Chaz Bundick and Schoolboy Q)",
+        "time": "1:09"
+      },
+      {
+        "name": "Find Your Wings (featuring Roy Ayers, Syd Bennett and Kali Uchis)",
+        "time": "2:59"
+      },
+      { "name": "Cherry Bomb", "time": "4:29" },
+      {
+        "name": "Blow My Load (featuring Wanya Morris, Dâm-Funk, Austin Feinstein and Syd Bennett)",
+        "time": "3:10"
+      },
+      {
+        "name": "2Seater (featuring Aaron Shaw, Samantha Nelson and Austin Feinstein)",
+        "time": "6:49"
+      },
+      {
+        "name": "The Brown Stains of Darkeese Latifah Part 6–12 (Remix) (featuring Schoolboy Q)",
+        "time": "3:11"
+      },
+      {
+        "name": "Fucking Young / Perfect (featuring Charlie Wilson, Chaz Bundick, Syd Bennett and Kali Uchis)",
+        "time": "6:41"
+      },
+      {
+        "name": "Smuckers (featuring Lil Wayne and Kanye West)",
+        "time": "5:34"
+      },
+      {
+        "name": "Keep Da O's (featuring Pharrell Williams and Coco O)",
+        "time": "4:08"
+      },
+      {
+        "name": "Okaga, CA (featuring Alice Smith, Leon Ware and Clem Creevy)",
+        "time": "6:37"
+      }
+    ]
+  },
+
+  {
+    "name": "WOLF",
+    "date": "2017",
+    "artwork": ["artworks/WOLF/alternate.jpg", "artworks/WOLF/original.jpg"],
+    "tracklist": [
+      { "name": "Wolf", "time": "1:50" },
+      { "name": "Jamba (featuring Hodgy Beats)", "time": "3:32" },
+      { "name": "Cowboy", "time": "3:15" },
+      { "name": "Awkward", "time": "3:47" },
+      { "name": "Domo23", "time": "2:38" },
+      { "name": "Answer", "time": "3:50" },
+      { "name": "Slater (featuring Frank Ocean)", "time": "3:53" },
+      { "name": "48", "time": "4:07" },
+      { "name": "Colossus", "time": "3:33" },
+      {
+        "name": "PartyIsntOver / Campfire / Bimmer (featuring Lætitia Sadier and Frank Ocean)",
+        "time": "7:18"
+      },
+      { "name": "IFHY (featuring Pharrell)", "time": "5:19" },
+      { "name": "Pigs", "time": "4:14" },
+      {
+        "name": "Parking Lot (featuring Casey Veggies and Mike G)",
+        "time": "3:53"
+      },
+      {
+        "name": "Rusty (featuring Domo Genesis and Earl Sweatshirt)",
+        "time": "5:09"
+      },
+      {
+        "name": "Trashwang (featuring Na'kel, Jasper, Lucas, L-Boy, Taco, Left Brain and Lee Spielman)",
+        "time": "4:42"
+      },
+      {
+        "name": "Treehome95 (featuring Coco O and Erykah Badu)",
+        "time": "3:00"
+      },
+      { "name": "Tamale", "time": "2:46" },
+      { "name": "Lone", "time": "4:00" }
+    ]
+  }
+]
