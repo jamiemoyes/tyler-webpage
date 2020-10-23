@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This webpage was built using ReactJS and other frameworks like GSAP and SplittingJS
 
 ## Available Scripts
 
